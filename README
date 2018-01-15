@@ -1,0 +1,6 @@
+Po zbudowaniu "make" w folderze skopiuje plik parser do tego folderu. 
+
+Uzycie
+./parser < plikwejsciowy > plikwyjsciowy 
+
+Kamil Sikorski 221481
